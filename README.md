@@ -1,4 +1,4 @@
-# New Coder Tutorials
+## New Coder Tutorials
 
 * [Data Visualization](http://newcoder.io/dataviz)
 * [Web Scraping](http://newcoder.io/scrape)
