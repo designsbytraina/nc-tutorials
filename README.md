@@ -1,7 +1,7 @@
 ## New Coder Tutorials
 
-* [Data Visualization](http://newcoder.io/dataviz)
-* [Web Scraping](http://newcoder.io/scrape)
+* [Data Visualization](https://github.com/designsbytraina/nc-tutorials/tree/master/dataviz)
+* [Web Scraping](https://github.com/designsbytraina/nc-tutorials/tree/master/scrape)
 * [APIs](http://newcoder.io/api)
 * [Networking](http://newcoder.io/networks)
 * [GUI](http://newcoder.io/gui)
